@@ -160,6 +160,20 @@ Darwin-GRC-Internal-Audit-Control-Testing/
 ├── audit_summary.md
 └── evidence/
 
+## Evidence Screenshots
+
+### Evidence Request List
+![Evidence Request List](evidence/evidence-request-list.png)
+
+### Control Test Results
+![Control Test Results](evidence/control-test-results.png)
+
+### Management Response Tracker
+![Management Response Tracker](evidence/management-response-tracker.png)
+
+### Remediation Tracker
+![Remediation Tracker](evidence/remediation-tracker.png)
+
 ## Skills Demonstrated
 
 - Internal Audit
